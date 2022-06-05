@@ -1,5 +1,3 @@
-//API KEY :- AIzaSyDooaKG0vu4eWexLT-MlUVPpzXP8qqpfp4
-
 // url :- `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&q=thor&key=[YOUR_API_KEY]'
 
 const apiKey = `AIzaSyDooaKG0vu4eWexLT-MlUVPpzXP8qqpfp4`
